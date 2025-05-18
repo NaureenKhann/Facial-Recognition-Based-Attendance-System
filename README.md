@@ -92,13 +92,13 @@ Attendance-System/
 ├── utils.py                # Helper functions
 └── README.md               # This file
 👥 Contributors
-Naureen Khan – Lead Developer [23AI04]
+Naureen Khan – Lead 
 
-Shaikh Mariya Shakeel Ahmed – UI/UX Designer [23AI12]
+Shaikh Mariya Shakeel Ahmed 
 
-Insha Khan – Database Specialist [23AI03]
+Insha Khan 
 
-Muskan Mustaqeem Kurawle – Testing Engineer [24DAI07]
+Muskan Mustaqeem Kurawle –
 
 Proudly developed by Team Hack Her Way from AIML Department (2nd Year).
 
